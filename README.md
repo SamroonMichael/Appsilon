@@ -1,4 +1,4 @@
-# Appsilon React+TS Dashboard App 
+# Appsilon Insurance Dashboard App 
 
 This project was created as FD assessment for Appsilon. This insurance dashboard app use react-app, react-reduxt@toolkit and typescript
 

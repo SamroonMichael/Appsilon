@@ -1,11 +1,7 @@
-import LoginForm from '../../containers/Login';
+import Login from '../../containers/Login';
 
 const LoginView = () => {
-    return (
-        <div>
-            <LoginForm />
-        </div>
-    );
+    return <Login />;
 };
 
 export default LoginView;
